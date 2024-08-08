@@ -6,7 +6,7 @@ Welcome to the enigmatic realm of PDF Alchemist, where the secrets of PDFs are t
 
 PDF Alchemist is a sophisticated, open-source toolkit that combines the arcane arts of PDF parsing, OCR, image processing, and HTML generation. It's designed for those who seek to unlock the knowledge sealed within the enigmatic tomes we call PDFs.
 
-Developed by the master craftsmen at Team BitFuture, this project brings together a fellowship of powerful components:
+This project brings together a fellowship of powerful components:
 
 - PDFParser: The Document Detective, powered by [PyMuPDF](https://github.com/pymupdf/PyMuPDF)
 - OCREngine: The Text Archaeologist, empowered by [Tesseract](https://github.com/tesseract-ocr/tesseract)
