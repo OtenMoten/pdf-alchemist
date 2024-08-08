@@ -1,4 +1,4 @@
-# 🕵️‍♂️ PDF Alchemist: A PDF to HTML Transmuter 📜🌐
+# 👩🏼‍🔬 PDF Alchemist: A PDF to HTML Transmuter
 
 Welcome to the realm of PDF Alchemist, where the secrets of PDFs are transmuted into HTML.
 
@@ -73,8 +73,6 @@ We welcome fellow arcane researchers to join our quest. If you wish to contribut
 3. Commit your changes (`git commit -m 'Add MagicSpell'`)
 4. Push to the branch (`git push origin feature/MagicSpell`)
 5. Open a Pull Request
-
-Please consult [CONTRIBUTING.md](CONTRIBUTING.md) for our code of conduct and the process for submitting pull requests.
 
 ## 📜 License
 
