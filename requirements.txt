@@ -1,0 +1,9 @@
+PyMuPDF
+pytesseract
+opencv-python
+numpy
+pillow
+dominate
+tqdm
+pytest
+beautifulsoup4
