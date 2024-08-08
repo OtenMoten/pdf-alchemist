@@ -1,10 +1,10 @@
-# 🕵️‍♂️ PDF Alchemist: The Arcane PDF to HTML Transmuter 📜🌐
+# 🕵️‍♂️ PDF Alchemist: A PDF to HTML Transmuter 📜🌐
 
-Welcome to the enigmatic realm of PDF Alchemist, where the secrets of PDFs are transmuted into the digital gold of HTML.
+Welcome to the realm of PDF Alchemist, where the secrets of PDFs are transmuted into HTML.
 
 ## 🌟 Project Overview
 
-PDF Alchemist is a sophisticated, open-source toolkit that combines the arcane arts of PDF parsing, OCR, image processing, and HTML generation. It's designed for those who seek to unlock the knowledge sealed within the enigmatic tomes we call PDFs.
+This [Python](https://www.python.org) application lovely named "PDF Alchemist" is a sophisticated, open-source toolkit that combines the arcane arts of PDF parsing, OCR, image processing, and HTML generation. It's designed for those who seek to unlock the knowledge sealed within the enigmatic tomes we call PDFs.
 
 This project brings together a fellowship of powerful components:
 
