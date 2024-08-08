@@ -93,7 +93,7 @@ See also the list of [contributors](https://github.com/team-bitfuture/pdf-alchem
 
 ## 🌟 Connect with Team BitFuture
 
-- Website: [www.team-bitfuture.de](https://www.team-bitfuture.de)
+- Website: [team-bitfuture.de](https://team-bitfuture.de)
 - Email: [info@team-bitfuture.de](mailto:info@team-bitfuture.de)
 
 May your PDFs always yield their secrets, and your HTML render with perfection. 📜🌐
