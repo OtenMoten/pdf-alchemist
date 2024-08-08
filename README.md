@@ -4,7 +4,7 @@ Welcome to the realm of PDF Alchemist, where the secrets of PDFs are transmuted 
 
 ## 🌟 Project Overview
 
-This [Python](https://www.python.org) application lovely named "PDF Alchemist" is a sophisticated, open-source toolkit that combines the arcane arts of PDF parsing, OCR, image processing, and HTML generation. It's designed for those who seek to unlock the knowledge sealed within the enigmatic tomes we call PDFs.
+This [Python](https://www.python.org) application lovely named **PDF Alchemist** is a sophisticated, open-source toolkit that combines the arcane arts of PDF parsing, OCR, image processing, and HTML generation. It's designed for those who seek to unlock the knowledge sealed within the enigmatic tomes we call PDFs.
 
 This project brings together a fellowship of powerful components:
 
