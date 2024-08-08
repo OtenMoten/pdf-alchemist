@@ -8,11 +8,11 @@ PDF Alchemist is a sophisticated, open-source toolkit that combines the arcane a
 
 This project brings together a fellowship of powerful components:
 
-- PDFParser: The Document Detective, powered by [PyMuPDF](https://github.com/pymupdf/PyMuPDF)
-- OCREngine: The Text Archaeologist, empowered by [Tesseract](https://github.com/tesseract-ocr/tesseract)
-- ImageProcessor: The Digital Alchemist, enhanced by [Pillow](https://github.com/python-pillow/Pillow)
-- HTMLGenerator: The Web Illusionist, crafted with [Dominate](https://github.com/Knio/dominate)
-- ProgressTracker: The Expedition Chronicler, utilizing Python's built-in [logging](https://docs.python.org/3/library/logging.html) module
+- **PDFParser**: The Document Detective, powered by [PyMuPDF](https://github.com/pymupdf/PyMuPDF)
+- **OCREngine**: The Text Archaeologist, empowered by [Tesseract](https://github.com/tesseract-ocr/tesseract)
+- **ImageProcessor**: The Digital Alchemist, enhanced by [Pillow](https://github.com/python-pillow/Pillow)
+- **HTMLGenerator**: The Web Illusionist, crafted with [Dominate](https://github.com/Knio/dominate)
+- **ProgressTracker**: The Expedition Chronicler, utilizing Python's built-in [logging](https://docs.python.org/3/library/logging.html) module
 
 ## ✨ Capabilities
 
