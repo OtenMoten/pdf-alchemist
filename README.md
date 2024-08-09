@@ -76,18 +76,13 @@ We welcome fellow arcane researchers to join our quest. If you wish to contribut
 
 ## 📜 License
 
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
+This project is licensed under the GPL3.0 License - see the [LICENSE.md](LICENSE.md) file for details.
 
 ## 🧙‍♂️ Authors
 
 - **Kevin Ossenbrück** - *Archmage of PDF Transformation* - [ossenbrück.de](https://ossenbrück.de)
 
 See also the list of [contributors](https://github.com/team-bitfuture/pdf-alchemist/contributors) who participated in this arcane project.
-
-## 🎩 Acknowledgments
-
-- A nod of respect to the creators of [PyMuPDF](https://github.com/pymupdf/PyMuPDF), [Tesseract](https://github.com/tesseract-ocr/tesseract), and [Pillow](https://github.com/python-pillow/Pillow)
-- Special recognition to all the beta testers who helped refine our arcane formulae
 
 ## 🌟 Connect with Team BitFuture
 
